@@ -31,6 +31,3 @@ It allows users to search for flights, book tickets, and manage reservations in 
 
 ---
 
-👉 Once you push this file along with your project, GitHub will automatically display it on your repo’s main page.  
-
-Do you also want me to design a **badge section** (like visitor count, tech badges, etc.) for this project’s README, similar to your profile one?
